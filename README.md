@@ -2,7 +2,7 @@
 
 ## Author
 
-* Kibet Ronald
+* Victor Kuria
 
 ## Description
 
@@ -24,7 +24,7 @@
 
 * To access this project locally in your machine,use the command:
 
-`$ git clone https://github.com/ronah289/TrackWildlife.git`
+`$ git clone https://github.com/davincii254/TrackWildlife.git`
 to clone to your machine.
 * `$ cd TrackWildlife`
 * `$ psql < create.sql`
